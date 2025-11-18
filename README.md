@@ -57,9 +57,9 @@ React + Vite + Modern UI.
 
 # 📊 **GitHub Stats (Neon Cyberpunk Theme)**
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Farid-khan8&theme=radical&hide_border=true&background=000000&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Farid-khan8&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
