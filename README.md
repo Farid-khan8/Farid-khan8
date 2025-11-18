@@ -69,7 +69,7 @@ React + Vite + Modern UI.
 ---
 
 # 🤝 **Connect With Me**
-<p align="left">
+<p align="center">
   <a href="mailto:faridkhansharin@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://linkedin.com/in/farid-khan8"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 </p>
