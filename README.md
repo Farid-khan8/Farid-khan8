@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fariduddin Khan</h1>
 <h3 align="center">Full-Stack Developer (MERN) | Passionate Learner | Available for Hire</h3>
 
+<!-- Animated Welcome Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=00E7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Fariduddin+Khan;Full-Stack+Developer+(MERN);Frontend+React+Developer;JavaScript+Enthusiast;Open+to+Internships+%26+Freelance+Work" alt="Typing Animation" />
+</p>
+
+<!-- Dark Mode Banner -->
+<p align="center">
+  <img src="https://github.com/DenverCoder1/github-readme-streak-stats/blob/master/docs/images/banner_dark.svg" width="100%" alt="Banner"/>
+</p>
 ---
 
 ## 🚀 About Me  
